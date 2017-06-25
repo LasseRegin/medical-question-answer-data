@@ -1,7 +1,7 @@
 
 # Medical Question/Answer dataset
 
-This repository contains medical Q/A datasets crawled from the following websites
+This repository contains medical Q/A datasets gathered from the following websites
 
 * [eHealth Forum](http://ehealthforum.com/health/health_forums.html)
 * [HealthTap](https://www.healthtap.com/answers_by_specialty)
